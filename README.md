@@ -33,9 +33,27 @@
 
 - ⚡ Fun fact **I don't think I'm Funny. LOL!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 🚀 My Projects
+
+| Project Name | Description | Tech Stack | Links |
+|--------------|-------------|------------|-------|
+| [Project 1](https://github.com/your-username/project-1) | A fullstack web app to manage tasks | Next.js, Tailwind, Node.js, Prisma | [Repo](https://github.com/your-username/project-1) |
+| [Project 2](https://github.com/your-username/project-2) | A RESTful API for managing user data | Express, SQLite, Prisma | [Repo](https://github.com/your-username/project-2) |
+
+### ✍️ Latest Blog Posts
+- [How I Built My Portfolio with Next.js and Tailwind](https://your-blog-link.com/blog1)
+- [Exploring AWS S3: A Beginner's Guide](https://your-blog-link.com/blog2)
+- [Mastering Docker for Efficient Development](https://your-blog-link.com/blog3)
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en" alt="your-username" />
+</p>
+
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 ### 🖥️ Frontend Development:

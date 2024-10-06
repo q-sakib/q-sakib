@@ -55,6 +55,7 @@
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=q-sakib" alt="q-sakib" /></a> </p>
+![GitHub metrics](https://metrics.lecoq.io/q-sakib)  
 
 
 
@@ -88,10 +89,9 @@
 
 
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/q-sakib/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/q-sakib)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=q-sakib)  
 
-
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/q-sakib/contributions?format=svg&private=true)  

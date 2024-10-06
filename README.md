@@ -50,7 +50,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=q-sakib&show_icons=true&locale=en" alt="q-sakib" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=q-sakib&" alt="q-sakib" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=q-sakib&" alt="q-sakib" /></p>
 
 
 
@@ -63,7 +63,7 @@
 
 
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=q-sakib" alt="q-sakib" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=q-sakib" alt="q-sakib" /></a> </p>
 
 
 

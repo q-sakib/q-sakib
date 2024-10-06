@@ -94,10 +94,6 @@
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/q-sakib/contributions?format=svg&private=true)  
 
-
-<p align="center">
-
 ![GitHub metrics](https://metrics.lecoq.io/q-sakib)  
-</p>
 
 

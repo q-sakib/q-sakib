@@ -7,7 +7,6 @@
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/q-sakib)
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=q-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="q-sakib" />
 </p>
@@ -241,8 +240,7 @@
 
 
 
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/q-sakib)
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/q-sakib/contributions?format=svg&private=true)  
 

@@ -1,12 +1,12 @@
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1050429916217466880/1655775506/600x200)
 <h1 align="center">Hi 👋, I'm Sakib U. SiddiQuie</h1>
-<h2 align="center"><b>Senior Backend Developer | Competitive Programmer</b> </h2>
+<h2 align="center"><b> Backend Developer | Competitive Programmer</b> </h2>
 <h3 align="center">Building scalable backend systems with Node.js, Python, C, and Prisma. Passionate about algorithms and data structures. Skilled in Docker, PostgreSQL, and API design. Always up for a coding challenge!</h3>
 
 
-<p align="left">
+<p align="right">
 <img src="https://komarev.com/ghpvc/?username=q-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="q-sakib" />
-<a href="https://twitter.com/q_sakib" target="blank"><img src="https://img.shields.io/twitter/follow/q_sakib?logo=twitter&style=for-the-badge" alt="q_sakib" /></a>
+<a href="https://twitter.com/q_sakib" target="blank"><img src="https://img.shields.io/twitter/connect me on Twitter/q_sakib?logo=twitter&style=for-the-badge" alt="q_sakib" /></a>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

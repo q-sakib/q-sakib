@@ -42,13 +42,13 @@
 
 
 
-<p align="center"> <a href="https://twitter.com/q_sakib" target="blank"><img src="https://img.shields.io/twitter/follow/q_sakib?logo=twitter&style=for-the-badge" alt="q_sakib" /></a> </p>
+<p align="right"> <a href="https://twitter.com/q_sakib" target="blank"><img src="https://img.shields.io/twitter/follow/q_sakib?logo=twitter&style=for-the-badge" alt="q_sakib" /></a> </p>
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=q-sakib&show_icons=true&locale=en&layout=compact" alt="q-sakib" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=q-sakib&show_icons=true&locale=en&layout=compact" alt="q-sakib" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=q-sakib&show_icons=true&locale=en" alt="q-sakib" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=q-sakib&show_icons=true&locale=en" alt="q-sakib" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=q-sakib&" alt="q-sakib" /></p>
 

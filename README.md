@@ -56,7 +56,7 @@
 
 
 
-<p align="right"> <a href="https://twitter.com/q_sakib" target="blank"><img src="https://img.shields.io/twitter/connect/q_sakib?logo=twitter&style=for-the-badge" alt="q_sakib" /></a> </p>
+<p align="right"> <a href="https://twitter.com/q_sakib" target="blank"><img src="https://img.shields.io/twitter/follow/q_sakib?logo=twitter&style=for-the-badge" alt="q_sakib" /></a> </p>
 
 
 

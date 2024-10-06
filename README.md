@@ -4,6 +4,10 @@
 <h3 align="center">Building scalable backend systems with Node.js, Python, C, and Prisma. Passionate about algorithms and data structures. Skilled in Docker, PostgreSQL, and API design. Always up for a coding challenge!</h3>
 
 
+
+
+
+
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=q-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="q-sakib" />
 </p>
@@ -60,8 +64,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://dev.to/sakib_siddiquie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sakib_siddiquie" height="30" width="40" /></a>
 <a href="https://twitter.com/q_sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="q_sakib" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/q-sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="q-sakib" height="30" width="40" /></a>
@@ -75,12 +79,7 @@
 
 
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=q-sakib" alt="q-sakib" /></a> </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q-sakib)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=q-sakib&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/q-sakib/contributions?format=svg&private=true)  
 

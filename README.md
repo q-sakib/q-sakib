@@ -3,6 +3,13 @@
 <h2 align="center"><b>Senior Backend Developer | Competitive Programmer</b> </h2>
 <h3 align="center">Building scalable backend systems with Node.js, Python, C, and Prisma. Passionate about algorithms and data structures. Skilled in Docker, PostgreSQL, and API design. Always up for a coding challenge!</h3>
 
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=q-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="q-sakib" />
+<a href="https://twitter.com/q_sakib" target="blank"><img src="https://img.shields.io/twitter/follow/q_sakib?logo=twitter&style=for-the-badge" alt="q_sakib" /></a>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=q-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="q-sakib" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=q-sakib" alt="q-sakib" /></a> </p>

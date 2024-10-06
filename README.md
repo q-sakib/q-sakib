@@ -57,6 +57,27 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=q-sakib)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/sakib_siddiquie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sakib_siddiquie" height="30" width="40" /></a>
+<a href="https://twitter.com/q_sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="q_sakib" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/q-sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="q-sakib" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22631473" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22631473" height="30" width="40" /></a>
+<a href="https://fb.com/qsakib.docs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="qsakib.docs" height="30" width="40" /></a>
+<a href="https://instagram.com/shark_ib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shark_ib" height="30" width="40" /></a>
+<a href="https://www.behance.net/sakibsiddiquie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sakibsiddiquie" height="30" width="40" /></a>
+<a href="https://medium.com/@q-sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@q-sakib" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@be_shark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@be_shark" height="30" width="40" /></a>
+</p>
+
+
+
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=q-sakib" alt="q-sakib" /></a> </p>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q-sakib)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=q-sakib&show_icons=true&count_private=true)  

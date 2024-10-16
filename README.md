@@ -46,13 +46,6 @@
 - [Exploring AWS S3: A Beginner's Guide](https://your-blog-link.com/blog2)
 - [Mastering Docker for Efficient Development](https://your-blog-link.com/blog3)
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en" alt="your-username" />
-</p>
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>

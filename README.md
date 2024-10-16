@@ -197,15 +197,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=q-sakib&show_icons=true&locale=en&layout=compact" alt="q-sakib" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=q-sakib&show_icons=true&locale=en" alt="q-sakib" /></p>
-
-
-
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=q-sakib" alt="q-sakib" /></a> </p>
 
 
 
@@ -238,13 +230,6 @@
 
 
 
-
-
-
-
-
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/q-sakib/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/q-sakib)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/q-sakib)

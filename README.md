@@ -14,40 +14,6 @@
 
 
 
-- 🔭 I’m currently working on [Finance Advisor](aohtudoiehao.varcel.app)
-
-- 🌱 I’m currently learning **Core C++ and Python**
-
-- 👯 I’m looking to collaborate on [AI or ML project](aohtudoehao.varcel.app)
-
-- 🤝 I’m looking for help with [aohtudoeuidhao.varcel.app](aohtudoeuidhao.varcel.app)
-
-- 👨‍💻 All of my projects are available at [q-sakib.varcel.app](q-sakib.varcel.app)
-
-- 📝 I regularly write articles on [q-sakib.blogspot.com](q-sakib.blogspot.com)
-
-- 💬 Ask me about **React+Redux, Node.js, Express.js**
-
-- 📫 How to reach me **q.sakib@hotmail.com**
-
-- 📄 Know about my experiences [q-sakib.varcel.app](q-sakib.varcel.app)
-
-- ⚡ Fun fact **I don't think I'm Funny. LOL!**
-
-### 🚀 My Projects
-
-| Project Name | Description | Tech Stack | Links |
-|--------------|-------------|------------|-------|
-| [Project 1](https://github.com/your-username/project-1) | A fullstack web app to manage tasks | Next.js, Tailwind, Node.js, Prisma | [Repo](https://github.com/your-username/project-1) |
-| [Project 2](https://github.com/your-username/project-2) | A RESTful API for managing user data | Express, SQLite, Prisma | [Repo](https://github.com/your-username/project-2) |
-
-### ✍️ Latest Blog Posts
-- [How I Built My Portfolio with Next.js and Tailwind](https://your-blog-link.com/blog1)
-- [Exploring AWS S3: A Beginner's Guide](https://your-blog-link.com/blog2)
-- [Mastering Docker for Efficient Development](https://your-blog-link.com/blog3)
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 ### 🖥️ Frontend Development:

@@ -7,7 +7,7 @@
 
 
 
-<p align="right">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=q-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="q-sakib" />
 </p>
 
@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ### 🖥️ Frontend Development:
-<p align="left"> 
+<p align="right"> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
   </a> 
@@ -61,7 +61,7 @@
 </p>
 
 ### 🗄️ Databases:
-<p align="left">
+<p align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
@@ -80,7 +80,7 @@
 </p>
 
 ### ☁️ Cloud & DevOps:
-<p align="left"> 
+<p align="center"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
@@ -99,7 +99,7 @@
 </p>
 
 ### 🧪 Testing & Tools:
-<p align="left">
+<p align="center">
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
   </a>
@@ -115,7 +115,7 @@
 </p>
 
 ### 🧠 Programming Languages:
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -137,14 +137,14 @@
 </p>
 
 ### 🧑‍💻 AI & Machine Learning:
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
 </p>
 
 ### 🎨 Design & Creativity:
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   </a> 

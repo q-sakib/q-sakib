@@ -14,7 +14,7 @@
 
 
 
-<h3 align="right">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 ### 🖥️ Frontend Development:
 <p align="right"> 

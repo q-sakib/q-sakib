@@ -7,14 +7,14 @@
 
 
 
-<p align="center">
+<p align="right">
 <img src="https://komarev.com/ghpvc/?username=q-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="q-sakib" />
 </p>
 
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="right">Languages and Tools:</h3>
 
 ### 🖥️ Frontend Development:
 <p align="right"> 

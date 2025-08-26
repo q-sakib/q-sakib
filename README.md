@@ -5,11 +5,18 @@
 <h1 align="center">Hi 👋, I'm Sakib U. SiddiQuie</h1>
 <h2 align="center"><b>Backend Developer | Competitive Programmer</b></h2>
 <h3 align="center">
-  Building scalable backend systems with Node.js, Python, C, and Prisma. <br />
-  Passionate about algorithms and data structures. <br />
-  Skilled in Docker, PostgreSQL, and API design. <br />
+  Building scalable backend systems using Node.js, Python, C, PHP (Laravel), and Prisma. <br />
+  Experienced in designing REST APIs, GraphQL, and OData services, with real-time capabilities using WebSockets. <br />
+  Skilled in Docker, PostgreSQL, and API-first design. <br />
+  Strong foundation in algorithms, data structures, and clean code practices. <br />
+  Writes maintainable, well-documented code and professional README.md files. <br />
+  Experienced in React.js and Next.js with a solid understanding of SSR, CSR, SSG, and modern frontend architectures. <br />
+  Also experienced in Angular development. <br />
+  Follows SOLID principles and object-oriented programming (OOP) best practices. <br />
+  Flexible and comfortable working with any related tech stack. <br />
   Always up for a coding challenge!
 </h3>
+
 
 
 

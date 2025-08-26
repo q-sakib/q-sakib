@@ -1,9 +1,15 @@
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1050429916217466880/1655775506/600x200)
+<p align="center">
+  <img src="https://pbs.twimg.com/profile_banners/1050429916217466880/1655775506/600x200" alt="I am GitHub Readme Generator's creator" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sakib U. SiddiQuie</h1>
-<h2 align="center"><b> Backend Developer | Competitive Programmer</b> </h2>
-<h3 align="center">Building scalable backend systems with Node.js, Python, C, and Prisma. Passionate about algorithms and data structures. Skilled in Docker, PostgreSQL, and API design. Always up for a coding challenge!</h3>
-
-
+<h2 align="center"><b>Backend Developer | Competitive Programmer</b></h2>
+<h3 align="center">
+  Building scalable backend systems with Node.js, Python, C, and Prisma. <br />
+  Passionate about algorithms and data structures. <br />
+  Skilled in Docker, PostgreSQL, and API design. <br />
+  Always up for a coding challenge!
+</h3>
 
 
 

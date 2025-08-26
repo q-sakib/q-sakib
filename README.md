@@ -1,21 +1,36 @@
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1050429916217466880/1655775506/600x200" alt="I am GitHub Readme Generator's creator" />
+  <img src="https://pbs.twimg.com/profile_banners/1050429916217466880/1655775506/600x200" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sakib U. SiddiQuie</h1>
-<h2 align="center"><b>Backend Developer | Competitive Programmer</b></h2>
+<h1 align="center" style="color:#2E4053;">Hi 👋, I'm Sakib U. SiddiQuie</h1>
+
+<h2 align="center" style="color:#566573;"><b>Backend Developer | Competitive Programmer</b></h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Clean-informational?style=flat&logo=visualstudio&color=2E86C1" />
+  <img src="https://img.shields.io/badge/Docs-Readable-success?style=flat&logo=markdown&color=28B463" />
+  <img src="https://img.shields.io/badge/Stack-Flexible-important?style=flat&logo=stackshare&color=AF7AC5" />
+</p>
+
+<hr style="width:60%; margin:auto; border:1px solid #E5E8E8;" />
+
 <h3 align="center">
-  Building scalable backend systems using Node.js, Python, C, PHP (Laravel), and Prisma. <br />
-  Experienced in designing REST APIs, GraphQL, and OData services, with real-time capabilities using WebSockets. <br />
-  Skilled in Docker, PostgreSQL, and API-first design. <br />
-  Strong foundation in algorithms, data structures, and clean code practices. <br />
-  Writes maintainable, well-documented code and professional README.md files. <br />
-  Experienced in React.js and Next.js with a solid understanding of SSR, CSR, SSG, and modern frontend architectures. <br />
-  Also experienced in Angular development. <br />
-  Follows SOLID principles and object-oriented programming (OOP) best practices. <br />
-  Flexible and comfortable working with any related tech stack. <br />
-  Always up for a coding challenge!
+
+✨ A few things about me:
+
 </h3>
+
+<ul align="center" style="list-style-type:none; color:#34495E; font-size:16px;">
+  <li>🧠 Building scalable backend systems using <b>Node.js</b>, <b>Python</b>, <b>PHP (Laravel)</b>, <b>C</b>, and <b>Prisma</b></li>
+  <li>🛠️ Skilled in designing <b>REST APIs</b>, <b>GraphQL</b>, <b>OData</b>, and <b>WebSocket</b> communication</li>
+  <li>🐳 Proficient in <b>Docker</b>, <b>PostgreSQL</b>, and backend architecture</li>
+  <li>📐 Strong understanding of <b>algorithms</b>, <b>data structures</b>, and <b>clean code</b> principles</li>
+  <li>📝 Writes maintainable code with professional <b>README.md</b> and documentation</li>
+  <li>⚛️ Experienced in <b>React.js</b>, <b>Next.js</b>, and frontend architecture — <b>SSR / CSR / SSG</b></li>
+  <li>🧩 Also worked with <b>Angular</b> and flexible with various tech stacks</li>
+  <li>📦 Practices <b>SOLID</b> principles and <b>OOP</b> methodologies</li>
+  <li>🚀 Always up for a coding challenge and exploring new technologies</li>
+</ul>
 
 
 

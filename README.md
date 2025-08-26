@@ -14,7 +14,7 @@
 
 <hr style="width:60%; margin:auto;" />
 
-<h3 align="center">✨ Short Resume</h3>
+<h3 align="center">✨ About Me</h3>
 
 <ul align="center" style="list-style-type:none; font-size:16px;">
   <li>🧠 Backend systems with <b>Node.js</b>, <b>Python</b>, <b>PHP (Laravel)</b>, <b>C</b>, <b>Prisma</b></li>

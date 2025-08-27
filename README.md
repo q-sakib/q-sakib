@@ -72,11 +72,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
-
-
-    [![My Skills](https://skillicons.dev/icons?i=aws,googlecloud,azure,firebase,vercel,heroku,docker,kubernetes,cloudflare,netlify&theme=light)](https://skillicons.dev)
-
 </p>
+    [![My Skills](https://skillicons.dev/icons?i=aws,googlecloud,azure,firebase,vercel,heroku,docker,kubernetes,cloudflare,netlify&theme=light)](https://skillicons.dev)
 
 ### 🧪 Testing & Tools
 <p align="center">
@@ -85,9 +82,9 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 
-  [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,postman,notion,cmake,npm,yarn,pnpm&theme=light)](https://skillicons.dev)
 
 </p>
+  [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,postman,notion,cmake,npm,yarn,pnpm&theme=light)](https://skillicons.dev)
 
 ### 🧠 Programming Languages
 <p align="center">
@@ -101,20 +98,19 @@
 ### 🤖 AI & Machine Learning
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-    [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=light)](https://skillicons.dev)
 </p>
+    [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=light)](https://skillicons.dev)
 
 ### 🎨 Design
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,adobeillustrator,adobexd,canva,gimp,lightroom&theme=light)](https://skillicons.dev)
-
 </p>
+  [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,adobeillustrator,adobexd,canva,gimp,lightroom&theme=light)](https://skillicons.dev)
 
 ### 🎨 CMS (Content Management System):
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=wordpress&theme=light)](https://skillicons.dev)
 </p>
+  [![My Skills](https://skillicons.dev/icons?i=wordpress&theme=light)](https://skillicons.dev)
 
 ---
 

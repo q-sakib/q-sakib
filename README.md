@@ -107,8 +107,7 @@
 ### 🎨 Design
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,adobeillustrator,adobexd,canva,gimp,lightroom&theme=light" alt="Design Tools" />
-
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,adobeillustrator,adobexd,canva,gimp,lightroom&theme=light" alt="Design Tools" />
 </p>
 
 ### 🎨 CMS (Content Management System):

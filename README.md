@@ -42,6 +42,8 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+    [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,sass,bootstrap,materialui&theme=light)](https://skillicons.dev)
+
 </p>
 
 ### ⚙️ Backend
@@ -50,6 +52,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+
+    [![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,deno&theme=light)](https://skillicons.dev)
+
 </p>
 
 ### 🗄️ Databases
@@ -67,6 +72,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
+
+
+    [![My Skills](https://skillicons.dev/icons?i=aws,googlecloud,azure,firebase,vercel,heroku,docker,kubernetes,cloudflare,netlify&theme=light)](https://skillicons.dev)
+
 </p>
 
 ### 🧪 Testing & Tools
@@ -75,6 +84,9 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+
+  [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,postman,notion,cmake,npm,yarn,pnpm&theme=light)](https://skillicons.dev)
+
 </p>
 
 ### 🧠 Programming Languages
@@ -89,11 +101,19 @@
 ### 🤖 AI & Machine Learning
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+    [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=light)](https://skillicons.dev)
 </p>
 
 ### 🎨 Design
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
+  [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,adobeillustrator,adobexd,canva,gimp,lightroom&theme=light)](https://skillicons.dev)
+
+</p>
+
+### 🎨 CMS (Content Management System):
+<p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=wordpress&theme=light)](https://skillicons.dev)
 </p>
 
 ---
@@ -109,6 +129,27 @@
 </p>
 
 
+
+
+## 🎮 Hobbies & Gaming
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,unity,unrealengine&theme=light" alt="Hardware & Game Dev" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=steam,xbox,ps5,ubisoft&theme=light" alt="Gaming Platforms" />
+</p>
+
+---
+
+## 🧠 Other Interests
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opengl,webgl,jira,powerbi,openapi&theme=light" alt="Other Technologies" />
+</p>
+
+---
 
 
 

@@ -64,8 +64,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=aws,googlecloud,azure,firebase,vercel,heroku,docker,kubernetes,cloudflare,netlify&theme=light" alt="Cloud & DevOps" />
-
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,dynamodb,prisma&theme=light" alt="Cloud & DevOps" />
 </p>
 
 ### ☁️ Cloud & DevOps

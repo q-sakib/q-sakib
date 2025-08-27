@@ -113,8 +113,9 @@
 
 ### 🎨 CMS (Content Management System):
 <p align="center">
+    <img src="https://skillicons.dev/icons?i=wordpress&theme=light" alt="Design Tools" />
+  
 </p>
-  <img src=https://skillicons.dev/icons?i=wordpress&theme=light)](https://skillicons.dev>
 
 ---
 

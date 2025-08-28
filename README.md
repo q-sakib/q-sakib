@@ -77,11 +77,11 @@
 
 ### 🧪 Testing & Tools
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,postman,notion,cmake,npm,yarn,pnpm&theme=light" alt="Tools and Utilities" />
+  <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm,cmake,github,gitlab,bitbucket&theme=light" alt="Tools and Utilities" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
   </br>
 </br>
 </p>

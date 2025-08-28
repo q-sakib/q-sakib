@@ -72,6 +72,7 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,netlify,vercel,heroku,aws,googlecloud,azure,firebase&theme=light" alt="Cloud & DevOps" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="40" />
 </br>
 </br>
 </p>
@@ -79,7 +80,7 @@
 ### 🧪 Testing & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm,cmake,github,gitlab,bitbucket,bash,powershell&theme=light" alt="Tools and Utilities" />
+  <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm,webpack,cmake,github,gitlab,bitbucket,bash,powershell&theme=light" alt="Tools and Utilities" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>

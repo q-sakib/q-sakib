@@ -147,7 +147,11 @@
 
 ### 🧠 Tools I Like Playing With
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opengl,webgl,jira,powerbi,openapi&theme=light" alt="Other Technologies" />
+  <img src="https://cdn.simpleicons.org/opengl/5586A4" alt="OpenGL" width="40" />
+  <img src="https://cdn.simpleicons.org/webgl/E34F26" alt="WebGL" width="40" />
+  <img src="https://cdn.simpleicons.org/atlassian/0052CC" alt="Jira (Atlassian)" width="40" />
+  <img src="https://cdn.simpleicons.org/microsoftpowerbi/F2C811" alt="Power BI" width="40" />
+  <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" alt="OpenAPI" width="40" />
 </p>
 
 ---

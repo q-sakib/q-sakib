@@ -89,8 +89,10 @@
   </br>
 </br>
 </p>
+---
 <h3 align="center">☁️ Cloud & DevOps</h3>
-
+</br>
+</br>
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
@@ -207,7 +209,7 @@
 </br>
 </p>
 
----
+
 ---
 
 

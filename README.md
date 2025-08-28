@@ -17,11 +17,12 @@
   I'm a full-stack software engineer who loves crafting clean, scalable systems and tackling real-world challenges. I’m passionate about writing thoughtful code, building intuitive APIs, and constantly leveling up my skills across the stack.
 </h4>
 
-<ul align="center" style="list-style-type:none; font-size:16px; padding-left:0; max-width: 700px; margin: 1.5em auto;">
-  <li style="list-style-type:none">🛠️ Experienced in designing robust APIs with REST, GraphQL, OData, and real-time WebSocket communication</li>
-  <li style="list-style-type:none">🧪 Dedicated to clean, maintainable code that follows SOLID & OOP principles, paired with clear, helpful documentation</li>
-  <li style="list-style-type:none">💡 Comfortable across frontend and backend (SSR, CSR), always curious and eager to learn new tech</li>
-</ul>
+<p align="center" style="font-size:16px; max-width: 700px; margin: 1.5em auto; line-height: 1.6;">
+  🛠️ Experienced in designing robust APIs with REST, GraphQL, OData, and real-time WebSocket communication<br><br>
+  🧪 Dedicated to clean, maintainable code that follows SOLID & OOP principles, paired with clear, helpful documentation<br><br>
+  💡 Comfortable across frontend and backend (SSR, CSR), always curious and eager to learn new tech
+</p>
+
 
 <p align="center" style="margin-top: 2em;">
   💬 Always open to collaboration, fresh challenges, and great tech conversations!

@@ -28,6 +28,36 @@
   <li>💡 Flexible across tech stacks, always learning</li>
 </ul>
 
+
+
+<h2 align="center">✨ About Me</h2>
+
+<p align="center">
+  I'm a backend-focused software engineer who enjoys building scalable systems, designing clean APIs, and solving complex problems across the stack. I’m passionate about writing maintainable code and continuously learning new technologies.
+</p>
+
+---
+
+### 🧠 Tech Stack
+
+- **Backend:** Node.js · Python · PHP (Laravel) · C · Prisma
+- **APIs:** REST · GraphQL · OData · WebSocket · API Design
+- **Databases & Tools:** Docker · PostgreSQL · MySQL · MongoDB · Redis
+- **Frontend:** React.js · Next.js · Angular (SSR / CSR / SSG)
+- **Coding Standards:** Clean, maintainable code · Well-documented `README.md` files
+- **Principles:** SOLID · Object-Oriented Programming (OOP)
+- **CS Fundamentals:** Algorithms · Data Structures · Problem-Solving
+- **Mindset:** Flexible across tech stacks · Always learning
+
+---
+
+<p align="center">
+  💬 Always open to collaboration, new challenges, and tech discussions!
+</p>
+
+
+
+
 ---
 
 <h3 align="center">🧰 Tech Stack</h3>

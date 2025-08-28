@@ -66,6 +66,17 @@
 </br>
 </br>
 </p>
+
+<h3 align="center">🧠 Programming Languages & scripting</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,ts,js,c,cpp&theme=light&perline=6" alt="AI and ML" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=html,css,bash,powershell,cmake&theme=light&perline=6" alt="AI and ML" />
+  </br>
+  </br>
+</p>
+
 <h3 align="left">🗄️ Databases & ORM</h3>
 
 <p align="left">
@@ -115,53 +126,6 @@
   </br>
 </br>
 </p>
-<h3 align="center">🧠 Programming Languages & scripting</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,ts,js,c,cpp&theme=light&perline=6" alt="AI and ML" />
-  </br>
-  <img src="https://skillicons.dev/icons?i=html,css,bash,powershell,cmake&theme=light&perline=6" alt="AI and ML" />
-  </br>
-  </br>
-</p>
-<h3 align="left">🤖 AI & Machine Learning</h3>
-
-### 
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="AI and ML" />
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-    <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="40" />
-    <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="40" />
-    </br>
-    </br>
-</p>
-<h3 align="center">🎨 Design</h3>
-
-### 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=light" alt="Design Tools" />
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="40" />
-  <img src="https://cdn.simpleicons.org/gimp/5C5543" alt="GIMP" width="40" />
-  </br>
-</br>
-</p>
-<h3 align="center">🎨 CMS (Content Management System):</h3>
-
-### 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/wix/000000" alt="Wix" width="40" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" width="40" />
-  <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" width="40" />
-  <img src="https://cdn.simpleicons.org/sanity/FF2B4F" alt="Sanity" width="40" />
-  <img src="https://cdn.simpleicons.org/prismic/484A7A" alt="Prismic" width="40" />
-  <img src="https://cdn.simpleicons.org/strapi/8E75FF" alt="Strapi" width="40" />
-  </br>
-</br>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=q-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="q-sakib" />
 </p>
@@ -205,6 +169,45 @@
   <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" alt="OpenAPI" width="40" />
   </p>
 
+
+
+<h3 align="left">🤖 AI & Machine Learning</h3>
+
+### 
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="AI and ML" />
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="40" />
+    <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="40" />
+    </br>
+    </br>
+</p>
+<h3 align="center">🎨 Design</h3>
+
+### 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=light" alt="Design Tools" />
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="40" />
+  <img src="https://cdn.simpleicons.org/gimp/5C5543" alt="GIMP" width="40" />
+  </br>
+</br>
+</p>
+<h3 align="center">🎨 CMS (Content Management System):</h3>
+
+### 
+<p align="center">
+  <img src="https://cdn.simpleicons.org/wix/000000" alt="Wix" width="40" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" width="40" />
+  <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" width="40" />
+  <img src="https://cdn.simpleicons.org/sanity/FF2B4F" alt="Sanity" width="40" />
+  <img src="https://cdn.simpleicons.org/prismic/484A7A" alt="Prismic" width="40" />
+  <img src="https://cdn.simpleicons.org/strapi/8E75FF" alt="Strapi" width="40" />
+  </br>
+</br>
+</p>
+
+---
 ---
 
 

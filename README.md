@@ -34,9 +34,9 @@
 
 
 ### 
-<h3 align="right">🖥️ Frontend</h3>
+<h3 align="center">🖥️ Frontend</h3>
 
-<p align="right" style="max-width: 350px; margin: auto;">
+<p align="center" style="max-width: 350px; margin: auto;">
 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/chakraui/319795" alt="Chakra UI" width="40" />
@@ -89,7 +89,9 @@
   </br>
 </br>
 </p>
----
+<hr style="width:60%; margin:auto;" />
+</br>
+</br>
 <h3 align="center">☁️ Cloud & DevOps</h3>
 </br>
 </br>

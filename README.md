@@ -33,7 +33,6 @@
 <hr style="width:60%; margin:auto;" />
 
 
-<h3 align="center">🖥️ Frontend</h3>
 
 <p align="center" style="max-width: 350px; margin: auto;">
   🖥️ Frontend
@@ -51,9 +50,6 @@
   </br>
   </br>
 </p>
-<h3 align="center">⚙️ Backend</h3>
-
-### 
 <p align="center">
   ⚙️ Backend
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
@@ -65,9 +61,7 @@
 </br>
 </br>
 </p>
-<h3 align="center">🗄️ Databases & ORM</h3>
 
-### 
 <p align="center">
   🗄️ Databases & ORM
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
@@ -78,10 +72,10 @@
   </br>
 </br>
 </p>
-<h3 align="center">☁️ Cloud & DevOps</h3>
+<h3 align="center"></h3>
 
-### 
-<p align="center">
+
+<p align="center">☁️ Cloud & DevOps
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/render/000000" alt="Render" width="40" />
   <img src="https://cdn.simpleicons.org/octopusdeploy/009FDA" alt="Octopus Deploy" width="40" />
@@ -92,10 +86,10 @@
 </br>
 </br>
 </p>
-<h3 align="center">🧪 Testing & Tools</h3>
+<h3 align="center"></h3>
 
 ### 
-<p align="center">☁️ Cloud & DevOps
+<p align="center">🧪 Testing & Tools
   <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm&theme=light" alt="Tools and Utilities" />
   <br/>
   <img src="https://skillicons.dev/icons?i=webpack,github,gitlab,bitbucket&theme=light" alt="Tools and Utilities" />
@@ -115,7 +109,7 @@
   </br>
 </br>
 </p>
-<h3 align="center">🧠 Programming Languages & scripting</h3>
+<h3 align="center"></h3>
 
 <p align="center">🧠 Programming Languages & scripting
   <img src="https://skillicons.dev/icons?i=python,php,ts,js,c,cpp&theme=light&perline=6" alt="AI and ML" />
@@ -124,7 +118,7 @@
   </br>
   </br>
 </p>
-<h3 align="center">🤖 AI & Machine Learning </h3>
+<h3 align="center"></h3>
 
 ### 
 <p align="center">🤖 AI & Machine Learning
@@ -137,7 +131,7 @@
 </p>
 <h3 align="center"></h3>
 
-### 🎨 Design
+### 
 <p align="center">🎨 Design
   <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=light" alt="Design Tools" />
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
@@ -148,7 +142,7 @@
 </p>
 <h3 align="center"></h3>
 
-### 🎨 CMS (Content Management System):
+### 
 <p align="center">🎨 CMS (Content Management System):
   <img src="https://cdn.simpleicons.org/wix/000000" alt="Wix" width="40" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" width="40" />

@@ -45,7 +45,7 @@
   <img src="https://cdn.simpleicons.org/gsap/0AE448" alt="Three.js" width="40" />
   <img src="https://cdn.simpleicons.org/webgl/E34F26" alt="WebGL" width="40" />
 <br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,sass,tailwind,bootstrap,figma,materialui&theme=light&perline=5" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,sass,tailwind,bootstrap,figma,materialui&theme=light&perline=4" alt="Frontend" />
 </br>
 </br>
 </p>

@@ -115,7 +115,12 @@
 
 ### 🎨 CMS (Content Management System):
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,shopify,sanity&theme=light" alt="Design Tools" />
+  <img src="https://cdn.simpleicons.org/wix/000000" alt="Wix" width="40" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" width="40" />
+  <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" width="40" />
+  <img src="https://cdn.simpleicons.org/sanity/FF2B4F" alt="Sanity" width="40" />
+  <img src="https://cdn.simpleicons.org/prismic/484A7A" alt="Prismic" width="40" />
+  <img src="https://cdn.simpleicons.org/strapi/8E75FF" alt="Strapi" width="40" />
   </br>
 </br>
 </p>
@@ -142,7 +147,10 @@
 
 ### 🎮 Gaming & Interactive Worlds
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=steam,xbox,ps5,ubisoft&theme=light" alt="Gaming Platforms" />
+  <img src="https://cdn.simpleicons.org/steam/000000" alt="Steam" width="40" />
+  <img src="https://cdn.simpleicons.org/xbox/107C10" alt="Xbox" width="40" />
+  <img src="https://cdn.simpleicons.org/playstation/003791" alt="PlayStation (PS5)" width="40" />
+  <img src="https://cdn.simpleicons.org/ubisoft/000000" alt="Ubisoft" width="40" />
 </p>
 
 ### 🧠 Tools I Like Playing With

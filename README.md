@@ -48,8 +48,8 @@
 
   <img src="https://cdn.simpleicons.org/styledcomponents/DB7093" alt="Styled-components" width="40" />
   <img src="https://cdn.simpleicons.org/semanticuireact/00B7D8" alt="Semantic UI React" width="40" />
-  <img src="https://cdn.simpleicons.org/chartdotjs/FFFFFF" alt="Chart.js" width="40" />
-  <img src="https://cdn.simpleicons.org/threedotjs/FFFFFF" alt="Three.js" width="40" />
+  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" width="40" />
+  <img src="https://cdn.simpleicons.org/threedotjs/000000" alt="Three.js" width="40" />
     <img src="https://cdn.simpleicons.org/gsap/0AE448" alt="Three.js" width="40" />
   <img src="https://cdn.simpleicons.org/webgl/E34F26" alt="WebGL" width="40" />
 

@@ -36,7 +36,7 @@
 <p align="center" style="max-width: 350px; margin: auto;">
 
 
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,sass,tailwind,bootstrap,figma,materialui&theme=light&perline=6" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,sass,tailwind,bootstrap,figma,materialui&theme=light" alt="Frontend" />
 
 
 

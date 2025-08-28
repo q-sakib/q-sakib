@@ -55,6 +55,7 @@
 
 ### 
 <p align="center">
+  ⚙️ Backend
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=deno,django,flask,laravel&theme=light" alt="Backend Skills" />
@@ -68,6 +69,7 @@
 
 ### 
 <p align="center">
+  🗄️ Databases & ORM
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
@@ -93,7 +95,7 @@
 <h3 align="center">🧪 Testing & Tools</h3>
 
 ### 
-<p align="center">
+<p align="center">☁️ Cloud & DevOps
   <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm&theme=light" alt="Tools and Utilities" />
   <br/>
   <img src="https://skillicons.dev/icons?i=webpack,github,gitlab,bitbucket&theme=light" alt="Tools and Utilities" />
@@ -115,8 +117,7 @@
 </p>
 <h3 align="center">🧠 Programming Languages & scripting</h3>
 
-### 🧠 Programming Languages & scripting
-<p align="center">
+<p align="center">🧠 Programming Languages & scripting
   <img src="https://skillicons.dev/icons?i=python,php,ts,js,c,cpp&theme=light&perline=6" alt="AI and ML" />
   </br>
   <img src="https://skillicons.dev/icons?i=html,css,bash,powershell,cmake&theme=light&perline=6" alt="AI and ML" />
@@ -126,7 +127,7 @@
 <h3 align="center">🤖 AI & Machine Learning </h3>
 
 ### 
-<p align="center">
+<p align="center">🤖 AI & Machine Learning
     <img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="AI and ML" />
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
     <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="40" />
@@ -137,7 +138,7 @@
 <h3 align="center"></h3>
 
 ### 🎨 Design
-<p align="center">
+<p align="center">🎨 Design
   <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=light" alt="Design Tools" />
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="40" />
@@ -148,7 +149,7 @@
 <h3 align="center"></h3>
 
 ### 🎨 CMS (Content Management System):
-<p align="center">
+<p align="center">🎨 CMS (Content Management System):
   <img src="https://cdn.simpleicons.org/wix/000000" alt="Wix" width="40" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" width="40" />
   <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" width="40" />

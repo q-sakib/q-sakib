@@ -100,8 +100,10 @@
 
 ### 🤖 AI & Machine Learning 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=light" alt="AI and ML" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch&theme=light" alt="AI and ML" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="40" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="40" />
   </br>
 </br>
 </p>

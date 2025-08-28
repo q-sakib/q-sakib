@@ -107,12 +107,8 @@
 
 ### 🎨 Design
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,adobeillustrator,adobexd,canva,gimp,lightroom&theme=light" alt="Design Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=light" alt="Design Tools" />
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-    <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="40" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Adobe Photoshop" width="40" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" alt="Adobe Illustrator" width="40" />
-  <img src="https://cdn.simpleicons.org/adobexd/FF61F6" alt="Adobe XD" width="40" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="40" />
   <img src="https://cdn.simpleicons.org/gimp/5C5543" alt="GIMP" width="40" />
   </br>

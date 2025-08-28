@@ -23,14 +23,17 @@
 </p>
 
 
-<p align="center" style="margin-top: 2em;">
+<h2 align="center" style="margin-top: 2em;">
   💬 Always open to collaboration, fresh challenges, and great tech conversations!
-</p>
+</h2>
 
 
+
+### 🧰 Tech Stack
 <hr style="width:60%; margin:auto;" />
 
-<h3 align="center">🧰 Tech Stack</h3>
+
+<h3 align="center">🖥️ Frontend</h3>
 
 ### 🖥️ Frontend
 <p align="center" style="max-width: 350px; margin: auto;">

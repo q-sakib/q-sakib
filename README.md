@@ -37,20 +37,16 @@
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/chakraui/319795" alt="Chakra UI" width="40" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" width="40" />
-  <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="Three.js" width="40" />
+  <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="sap-ui5" width="40" />
   <img src="https://cdn.simpleicons.org/styledcomponents/DB7093" alt="Styled-components" width="40" />
   <img src="https://cdn.simpleicons.org/semanticuireact/00B7D8" alt="Semantic UI React" width="40" />
   <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" width="40" />
-  <img src="https://cdn.simpleicons.org/threedotjs/000000" alt="Three.js" width="40" />
-  <img src="https://cdn.simpleicons.org/gsap/0AE448" alt="Three.js" width="40" />
-  <img src="https://cdn.simpleicons.org/webgl/E34F26" alt="WebGL" width="40" />
-<br/>
+  <br/>
   <img src="https://skillicons.dev/icons?i=angular,nextjs,react,redux,sass&theme=light" />
   <br/>
-
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui&theme=light" alt="Frontend" />
-</br>
-</br>
+  </br>
+  </br>
 </p>
 
 ### ⚙️ Backend
@@ -187,12 +183,14 @@
 
 ### 🧠 Tools I Like Playing With
 <p align="center">
-  <img src="https://cdn.simpleicons.org/opengl/5586A4" alt="OpenGL" width="40" />
+  <img src="https://cdn.simpleicons.org/threedotjs/000000" alt="Three.js" width="40" />
+  <img src="https://cdn.simpleicons.org/gsap/0AE448" alt="gsap" width="40" />
   <img src="https://cdn.simpleicons.org/webgl/E34F26" alt="WebGL" width="40" />
+  <img src="https://cdn.simpleicons.org/opengl/5586A4" alt="OpenGL" width="40" />
   <img src="https://cdn.simpleicons.org/atlassian/0052CC" alt="Jira (Atlassian)" width="40" />
-  <span> Power BI</span>
+  <span> <b>Power BI</b></span>
   <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" alt="OpenAPI" width="40" />
-</p>
+  </p>
 
 ---
 

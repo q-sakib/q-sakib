@@ -93,7 +93,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm&theme=light" alt="Tools and Utilities" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm,webpack,github,gitlab,bitbucket&theme=light" alt="Tools and Utilities" />
+  <img src="https://skillicons.dev/icons?i=webpack,github,gitlab,bitbucket&theme=light" alt="Tools and Utilities" />
   <br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -122,7 +122,7 @@
 
 ### 🤖 AI & Machine Learning 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,pytorch&theme=light" alt="AI and ML" />
+    <img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="AI and ML" />
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
     <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="40" />
     <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="40" />

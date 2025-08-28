@@ -72,7 +72,11 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,netlify,vercel,heroku,aws,googlecloud,azure,firebase&theme=light" alt="Cloud & DevOps" />
-  <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="40" />
+  <img src="https://cdn.simpleicons.org/render/000000" alt="Render" width="40" />
+  <img src="https://cdn.simpleicons.org/octopusdeploy/009FDA" alt="Octopus Deploy" width="40" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" width="40" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" width="40" />
+
 </br>
 </br>
 </p>

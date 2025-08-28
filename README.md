@@ -162,9 +162,10 @@
   <img src="https://cdn.simpleicons.org/activision/094189" alt="Activision" width="40" />
   <img src="https://cdn.simpleicons.org/epicgames/313131" alt="Epic Games" width="40" />
 </p>
+<h3 align="right">🧠 Tools I Like Playing With</h3>
 
-### 🧠 Tools I Like Playing With
-<p align="center">
+### 
+<p align="right">
   <img src="https://cdn.simpleicons.org/threedotjs/000000" alt="Three.js" width="40" />
   <img src="https://cdn.simpleicons.org/gsap/0AE448" alt="gsap" width="40" />
   <img src="https://cdn.simpleicons.org/webgl/E34F26" alt="WebGL" width="40" />
@@ -176,10 +177,10 @@
 
 
 
-<h3 align="left">🤖 AI & Machine Learning</h3>
+<h3 align="right">🤖 AI & Machine Learning</h3>
 
 ### 
-<p align="left">
+<p align="right">
     <img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="AI and ML" />
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
     <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="40" />

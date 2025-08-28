@@ -74,7 +74,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,dynamodb,prisma&theme=light" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=sqlite,dynamodb,prisma&theme=light" alt="Databases" />
   </br>
 </br>
 </p>

@@ -44,10 +44,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/chakraui/319795" alt="Chakra UI" width="40" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" width="40" />
+      <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="Three.js" width="40" />
+
   <img src="https://cdn.simpleicons.org/styledcomponents/DB7093" alt="Styled-components" width="40" />
   <img src="https://cdn.simpleicons.org/semanticuireact/00B7D8" alt="Semantic UI React" width="40" />
   <img src="https://cdn.simpleicons.org/chartdotjs/FFFFFF" alt="Chart.js" width="40" />
-  <img src="https://cdn.simpleicons.org/threejs/FFFFFF" alt="Three.js" width="40" />
+  <img src="https://cdn.simpleicons.org/threedotjs/FFFFFF" alt="Three.js" width="40" />
+    <img src="https://cdn.simpleicons.org/gsap/0AE448" alt="Three.js" width="40" />
   <img src="https://cdn.simpleicons.org/webgl/E34F26" alt="WebGL" width="40" />
 
 </br>
@@ -105,7 +108,7 @@
 
 <img src="https://cdn.simpleicons.org/atlassian/0052CC" alt="Jira (Atlassian)" width="40" />
 
-<img src="https://cdn.simpleicons.org/apachesubversion/809CC9" alt="Apache Subversion" width="40" />
+<img src="https://cdn.simpleicons.org/subversion/809CC9" alt="Apache Subversion" width="40" />
   </br>
 </br>
 </p>

@@ -149,12 +149,13 @@
 
 ### 🎮 Gaming & Interactive Worlds
 <p align="center">
-  <img src="https://cdn.simpleicons.org/steam/000000" alt="Steam" width="40" />
   <img src="https://cdn.simpleicons.org/playstation/003791" alt="PlayStation (PS5)" width="40" />
+<br/>
+  <img src="https://cdn.simpleicons.org/steam/000000" alt="Steam" width="40" />
   <img src="https://cdn.simpleicons.org/gameloft/000000" alt="gameloft" width="40" />
   <img src="https://cdn.simpleicons.org/ea/00A2E8" alt="EA" width="40" />
-  <img src="https://cdn.simpleicons.org/riotgames/FFDB00" alt="Riot Games" width="40" />
-  <img src="https://cdn.simpleicons.org/tencent/0078D7" alt="Tencent" width="40" />
+  <img src="https://cdn.simpleicons.org/riotgames/F24823" alt="Riot Games" width="40" />
+  <span>Tencent</span>
   <img src="https://cdn.simpleicons.org/activision/094189" alt="Activision" width="40" />
   <img src="https://cdn.simpleicons.org/epicgames/313131" alt="Epic Games" width="40" />
 </p>

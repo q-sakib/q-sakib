@@ -87,7 +87,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-### 🤖 AI & Machine Learning <p align="center">
+### 🤖 AI & Machine Learning 
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=light" alt="AI and ML" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
 </p>
@@ -116,19 +117,19 @@
 </p>
 
 
+<h3 align="center">🎯 What I’m Exploring & Enjoying</h3>
 
-
-### 🔬 Hardware & Game Dev
+### 🔬 Hardware & Creative Tech
 <p align="center">
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,unity,unrealengine&theme=light" alt="Game Dev Tools" />
 </p>
 
-### 🎮 Gaming Platforms
+### 🎮 Gaming & Interactive Worlds
 <p align="center">
   <img src="https://skillicons.dev/icons?i=steam,xbox,ps5,ubisoft&theme=light" alt="Gaming Platforms" />
 </p>
 
-### 🧠 Other Technologies
+### 🧠 Tools I Like Playing With
 <p align="center">
   <img src="https://skillicons.dev/icons?i=opengl,webgl,jira,powerbi,openapi&theme=light" alt="Other Technologies" />
 </p>

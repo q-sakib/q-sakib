@@ -33,7 +33,7 @@
 <h3 align="center">🧰 Tech Stack</h3>
 
 ### 🖥️ Frontend
-<p align="center">
+<p align="center" style="max-width: 350px; margin: auto;">
   <img src="https://skillicons.dev/icons?i=tailwind,sass,materialui&theme=light" alt="Frontend Skills" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>

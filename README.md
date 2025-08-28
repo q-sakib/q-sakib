@@ -36,17 +36,11 @@
 <p align="center" style="max-width: 350px; margin: auto;">
 
 
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,sass,tailwind,bootstrap,figma,materialui,openui5&theme=light&perline=6" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,sass,tailwind,bootstrap,figma,materialui&theme=light&perline=6" alt="Frontend" />
 
 
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,materialui&theme=light" alt="Frontend Skills" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/chakraui/319795" alt="Chakra UI" width="40" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" width="40" />
       <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="Three.js" width="40" />

@@ -11,12 +11,12 @@
 </p>
 
 
-<h2 align="center">✨ About Me</h2>
+<h3 align="center">✨ About Me</h3>
 
-<h4 align="center" style="max-width: 700px; margin: auto;">
+<h4 align="center" style="font-size:24px; max-width: 700px; margin: auto;">
   I'm a full-stack software engineer who loves crafting clean, scalable systems and tackling real-world challenges. I’m passionate about writing thoughtful code, building intuitive APIs, and constantly leveling up my skills across the stack.
 </h4>
-<p align="center" style="font-size:16px; max-width: 700px; margin: 1.5em auto; line-height: 1.6;">
+<p align="center" style="font-size:12px; max-width: 700px; margin: 1.5em auto; line-height: 1.6;">
   🛠️ Experienced in designing robust APIs with REST, GraphQL, OData, and real-time WebSocket communication<br/>
   🧪 Dedicated to clean, maintainable code that follows SOLID & OOP principles, paired with clear, helpful documentation<br/>
   💡 Comfortable across frontend and backend (SSR, CSR), always curious and eager to learn new tech<br/><br/>

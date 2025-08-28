@@ -44,6 +44,7 @@
   <img src="https://cdn.simpleicons.org/threedotjs/000000" alt="Three.js" width="40" />
   <img src="https://cdn.simpleicons.org/gsap/0AE448" alt="Three.js" width="40" />
   <img src="https://cdn.simpleicons.org/webgl/E34F26" alt="WebGL" width="40" />
+<br/>
   <img src="https://skillicons.dev/icons?i=nextjs,react,redux,sass,tailwind,bootstrap,figma,materialui&theme=light&perline=5" alt="Frontend" />
 </br>
 </br>
@@ -79,8 +80,8 @@
   <img src="https://cdn.simpleicons.org/octopusdeploy/009FDA" alt="Octopus Deploy" width="40" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" width="40" />
   <img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" width="40" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,netlify,vercel,heroku,aws,googlecloud,azure,firebase&theme=light&perline=5" alt="Cloud & DevOps" />
-
 </br>
 </br>
 </p>
@@ -98,6 +99,7 @@
   <img src="https://cdn.simpleicons.org/babel/F9DC3E" alt="Babel" width="40" />
   <img src="https://cdn.simpleicons.org/atlassian/0052CC" alt="Jira (Atlassian)" width="40" />
   <img src="https://cdn.simpleicons.org/subversion/809CC9" alt="Apache Subversion" width="40" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm,webpack,github,gitlab,bitbucket&theme=light&perline=5" alt="Tools and Utilities" />
   </br>
 </br>

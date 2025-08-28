@@ -14,51 +14,24 @@
 
 <hr style="width:60%; margin:auto;" />
 
-<h3 align="center">✨ About Me</h3>
-
-<ul align="center" style="list-style-type:none; font-size:16px;">
-  <li>🧠 Backend systems with <b>Node.js</b>, <b>Python</b>, <b>PHP (Laravel)</b>, <b>C</b>, <b>Prisma</b></li>
-  <li>🛠️ REST APIs, <b>GraphQL</b>, <b>OData</b>, <b>WebSocket</b>, API design</li>
-  <li>🐳 Docker, PostgreSQL, MySQL, MongoDB, Redis</li>
-  <li>⚙️ React.js, Next.js, Angular, SSR / CSR / SSG</li>
-  <li>🧪 Writes clean, maintainable code & <code>README.md</code> docs</li>
-  <li>🧩 Follows <b>SOLID</b> & <b>OOP</b> principles</li>
-  <li>🧑‍🎓 Strong in algorithms, data structures, problem-solving</li>
-  <li>🧠 Experience in SSR, CSR, and full-stack development</li>
-  <li>💡 Flexible across tech stacks, always learning</li>
-</ul>
-
-
-
 <h2 align="center">✨ About Me</h2>
 
-<p align="center">
-  I'm a backend-focused software engineer who enjoys building scalable systems, designing clean APIs, and solving complex problems across the stack. I’m passionate about writing maintainable code and continuously learning new technologies.
-</p>
+<h4 align="center">
+  I'm a full-stack software engineer who loves crafting clean, scalable systems and tackling real-world challenges. I’m passionate about writing thoughtful code, building intuitive APIs, and constantly leveling up my skills across the stack.
+</h4>
 
----
-
-### 🧠 Tech Stack
-
-- **Backend:** Node.js · Python · PHP (Laravel) · C · Prisma
-- **APIs:** REST · GraphQL · OData · WebSocket · API Design
-- **Databases & Tools:** Docker · PostgreSQL · MySQL · MongoDB · Redis
-- **Frontend:** React.js · Next.js · Angular (SSR / CSR / SSG)
-- **Coding Standards:** Clean, maintainable code · Well-documented `README.md` files
-- **Principles:** SOLID · Object-Oriented Programming (OOP)
-- **CS Fundamentals:** Algorithms · Data Structures · Problem-Solving
-- **Mindset:** Flexible across tech stacks · Always learning
+<ul align="center" style="list-style-type:none; font-size:16px; padding-left: 0;">
+  <li>🛠️ Experienced in designing robust APIs with REST, GraphQL, OData, and real-time WebSocket communication</li>
+  <li>🧪 Dedicated to clean, maintainable code that follows SOLID & OOP principles, paired with clear, helpful documentation</li>
+  <li>💡 Comfortable across frontend and backend (SSR, CSR), always curious and eager to learn new tech</li>
+</ul>
 
 ---
 
 <p align="center">
-  💬 Always open to collaboration, new challenges, and tech discussions!
+  💬 Always open to collaboration, fresh challenges, and great tech conversations!
 </p>
 
-
-
-
----
 
 <h3 align="center">🧰 Tech Stack</h3>
 

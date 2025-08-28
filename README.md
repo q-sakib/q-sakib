@@ -127,7 +127,7 @@
 <h3 align="left">🤖 AI & Machine Learning</h3>
 
 ### 
-<p align="left">🤖 AI & Machine Learning
+<p align="left">
     <img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="AI and ML" />
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
     <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="40" />

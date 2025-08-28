@@ -148,9 +148,8 @@
 ### 🎮 Gaming & Interactive Worlds
 <p align="center">
   <img src="https://cdn.simpleicons.org/steam/000000" alt="Steam" width="40" />
-  <img src="https://cdn.simpleicons.org/xbox/107C10" alt="Xbox" width="40" />
   <img src="https://cdn.simpleicons.org/playstation/003791" alt="PlayStation (PS5)" width="40" />
-  <img src="https://cdn.simpleicons.org/ubisoft/000000" alt="Ubisoft" width="40" />
+  <img src="https://cdn.simpleicons.org/gameloft/000000" alt="gameloft" width="40" />
 </p>
 
 ### 🧠 Tools I Like Playing With
@@ -158,7 +157,7 @@
   <img src="https://cdn.simpleicons.org/opengl/5586A4" alt="OpenGL" width="40" />
   <img src="https://cdn.simpleicons.org/webgl/E34F26" alt="WebGL" width="40" />
   <img src="https://cdn.simpleicons.org/atlassian/0052CC" alt="Jira (Atlassian)" width="40" />
-  <img src="https://cdn.simpleicons.org/microsoftpowerbi/F2C811" alt="Power BI" width="40" />
+  <span> Power BI</span>
   <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" alt="OpenAPI" width="40" />
 </p>
 

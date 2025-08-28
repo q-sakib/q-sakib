@@ -33,9 +33,11 @@
 <hr style="width:60%; margin:auto;" />
 
 
+### 
+<h3 align="right">🖥️ Frontend</h3>
 
-<p align="center" style="max-width: 350px; margin: auto;">
-  🖥️ Frontend
+<p align="right" style="max-width: 350px; margin: auto;">
+
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/chakraui/319795" alt="Chakra UI" width="40" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" width="40" />
@@ -50,8 +52,11 @@
   </br>
   </br>
 </p>
-<p align="center">
-  ⚙️ Backend
+
+<h3 align="left">⚙️ Backend</h3>
+
+<p align="left">
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=deno,django,flask,laravel&theme=light" alt="Backend Skills" />
@@ -61,9 +66,10 @@
 </br>
 </br>
 </p>
+<h3 align="left">🗄️ Databases & ORM</h3>
 
-<p align="center">
-  🗄️ Databases & ORM
+<p align="left">
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
@@ -72,10 +78,10 @@
   </br>
 </br>
 </p>
-<h3 align="center"></h3>
+<h3 align="center">☁️ Cloud & DevOps</h3>
 
 
-<p align="center">☁️ Cloud & DevOps
+<p align="center">
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/render/000000" alt="Render" width="40" />
   <img src="https://cdn.simpleicons.org/octopusdeploy/009FDA" alt="Octopus Deploy" width="40" />
@@ -86,10 +92,10 @@
 </br>
 </br>
 </p>
-<h3 align="center"></h3>
+<h3 align="center">🧪 Testing & Tools</h3>
 
 ### 
-<p align="center">🧪 Testing & Tools
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm&theme=light" alt="Tools and Utilities" />
   <br/>
   <img src="https://skillicons.dev/icons?i=webpack,github,gitlab,bitbucket&theme=light" alt="Tools and Utilities" />
@@ -109,19 +115,19 @@
   </br>
 </br>
 </p>
-<h3 align="center"></h3>
+<h3 align="center">🧠 Programming Languages & scripting</h3>
 
-<p align="center">🧠 Programming Languages & scripting
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,ts,js,c,cpp&theme=light&perline=6" alt="AI and ML" />
   </br>
   <img src="https://skillicons.dev/icons?i=html,css,bash,powershell,cmake&theme=light&perline=6" alt="AI and ML" />
   </br>
   </br>
 </p>
-<h3 align="center"></h3>
+<h3 align="left">🤖 AI & Machine Learning</h3>
 
 ### 
-<p align="center">🤖 AI & Machine Learning
+<p align="left">🤖 AI & Machine Learning
     <img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="AI and ML" />
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
     <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="40" />
@@ -129,10 +135,10 @@
     </br>
     </br>
 </p>
-<h3 align="center"></h3>
+<h3 align="center">🎨 Design</h3>
 
 ### 
-<p align="center">🎨 Design
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=light" alt="Design Tools" />
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="40" />
@@ -140,10 +146,10 @@
   </br>
 </br>
 </p>
-<h3 align="center"></h3>
+<h3 align="center">🎨 CMS (Content Management System):</h3>
 
 ### 
-<p align="center">🎨 CMS (Content Management System):
+<p align="center">
   <img src="https://cdn.simpleicons.org/wix/000000" alt="Wix" width="40" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" width="40" />
   <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" width="40" />

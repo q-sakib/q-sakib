@@ -91,38 +91,43 @@
 
 ### 🧪 Testing & Tools
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm&theme=light" alt="Tools and Utilities" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm,webpack,github,gitlab,bitbucket&theme=light" alt="Tools and Utilities" />
+  <br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/eslint/4B32C3" alt="ESLint" width="40" />
   <img src="https://cdn.simpleicons.org/prettier/F7B93E" alt="Prettier" width="40" />
+  <br/>
   <img src="https://cdn.simpleicons.org/cmake/064F8C" alt="CMake" width="40" />
   <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="JWT" width="40" />
   <img src="https://cdn.simpleicons.org/babel/F9DC3E" alt="Babel" width="40" />
   <img src="https://cdn.simpleicons.org/atlassian/0052CC" alt="Jira (Atlassian)" width="40" />
   <img src="https://cdn.simpleicons.org/subversion/809CC9" alt="Apache Subversion" width="40" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm,webpack,github,gitlab,bitbucket&theme=light&perline=5" alt="Tools and Utilities" />
   </br>
 </br>
 </p>
 
 ### 🧠 Programming Languages & scripting
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,python,php,ts,js,c,cpp,bash,powershell,cmake&theme=light&perline=6" alt="AI and ML" />
+  <img src="https://skillicons.dev/icons?i=python,php,ts,js,c,cpp&theme=light&perline=6" alt="AI and ML" />
   </br>
-</br>
+  <img src="https://skillicons.dev/icons?i=html,css,bash,powershell,cmake&theme=light&perline=6" alt="AI and ML" />
+  </br>
+  </br>
 </p>
 
 ### 🤖 AI & Machine Learning 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch&theme=light" alt="AI and ML" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="40" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="40" />
-  </br>
-</br>
+    <img src="https://skillicons.dev/icons?i=python,pytorch&theme=light" alt="AI and ML" />
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="40" />
+    <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="40" />
+    </br>
+    </br>
 </p>
 
 ### 🎨 Design

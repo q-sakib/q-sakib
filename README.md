@@ -36,6 +36,7 @@
 <h3 align="center">🖥️ Frontend</h3>
 
 <p align="center" style="max-width: 350px; margin: auto;">
+  🖥️ Frontend
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/chakraui/319795" alt="Chakra UI" width="40" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" width="40" />

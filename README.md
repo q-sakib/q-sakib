@@ -139,16 +139,17 @@
     <img src="https://img.shields.io/twitter/follow/q_sakib?logo=twitter&style=for-the-badge" alt="q_sakib" />
   </a>
 </p>
+<hr style="width:60%; margin:auto;" />
 
-
-<h3 align="center">🎯 What I’m Exploring & Enjoying</h3>
+<h3 align="right">🎯 What I’m Exploring & Enjoying</h3>
 
 ### 🔬 Hardware & Creative Tech
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,unity,unrealengine&theme=light" alt="Game Dev Tools" />
 </p>
 
-### 🎮 Gaming & Interactive Worlds
+<h3 align="center">🎮 Gaming & Interactive Worlds</h3>
+ 
 <p align="center">
   <img src="https://cdn.simpleicons.org/playstation/003791" alt="PlayStation (PS5)" width="40" />
 <br/>

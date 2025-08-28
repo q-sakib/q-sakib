@@ -34,7 +34,7 @@
 
 ### 🖥️ Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,materialui&theme=light" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,materialui&theme=light" alt="Frontend Skills" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
@@ -57,7 +57,7 @@
 </br>
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & ORM
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
@@ -80,7 +80,7 @@
 ### 🧪 Testing & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm,webpack,cmake,github,gitlab,bitbucket,bash,powershell&theme=light" alt="Tools and Utilities" />
+  <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm,webpack,github,gitlab,bitbucket&theme=light" alt="Tools and Utilities" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
@@ -88,13 +88,18 @@
   <img src="https://cdn.simpleicons.org/prettier/F7B93E" alt="Prettier" width="40" />
   <img src="https://cdn.simpleicons.org/cmake/064F8C" alt="CMake" width="40" />
   <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="JWT" width="40" />
+<img src="https://cdn.simpleicons.org/babel/F9DC3E" alt="Babel" width="40" />
+
+<img src="https://cdn.simpleicons.org/atlassian/0052CC" alt="Jira (Atlassian)" width="40" />
+
+<img src="https://cdn.simpleicons.org/apachesubversion/809CC9" alt="Apache Subversion" width="40" />
   </br>
 </br>
 </p>
 
-### 🧠 Programming Languages
+### 🧠 Programming Languages & scripting
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,php,ts,js,c,cpp&theme=light" alt="AI and ML" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,php,ts,js,c,cpp,bash,powershell,cmake&theme=light" alt="AI and ML" />
   </br>
 </br>
 </p>

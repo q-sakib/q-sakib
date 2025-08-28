@@ -43,6 +43,12 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/chakraui/319795" alt="Chakra UI" width="40" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" width="40" />
+  <img src="https://cdn.simpleicons.org/styledcomponents/DB7093" alt="Styled-components" width="40" />
+  <img src="https://cdn.simpleicons.org/semanticuireact/00B7D8" alt="Semantic UI React" width="40" />
+  <img src="https://cdn.simpleicons.org/chartdotjs/FFFFFF" alt="Chart.js" width="40" />
+  <img src="https://cdn.simpleicons.org/threejs/FFFFFF" alt="Three.js" width="40" />
+  <img src="https://cdn.simpleicons.org/webgl/E34F26" alt="WebGL" width="40" />
 
 </br>
 </br>
@@ -53,6 +59,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=deno,django,flask,laravel&theme=light" alt="Backend Skills" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" width="40" />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" alt="Socket.IO" width="40" />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" alt="RabbitMQ" width="40" />
 </br>
 </br>
 </p>

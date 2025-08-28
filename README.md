@@ -42,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://cdn.simpleicons.org/chakraui/319795" alt="Chakra UI" width="40" />
+  <img src="https://cdn.simpleicons.org/chakraui/319795" alt="Chakra UI" width="40" />
 
 </br>
 </br>
@@ -70,9 +70,8 @@
 
 ### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=aws,googlecloud,azure,firebase,vercel,heroku,docker,kubernetes,cloudflare,netlify&theme=light" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,netlify,vercel,heroku,aws,googlecloud,azure,firebase&theme=light" alt="Cloud & DevOps" />
 </br>
 </br>
 </p>
@@ -80,17 +79,21 @@
 ### 🧪 Testing & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm,cmake,github,gitlab,bitbucket&theme=light" alt="Tools and Utilities" />
+  <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm,cmake,github,gitlab,bitbucket,bash,powershell&theme=light" alt="Tools and Utilities" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/eslint/4B32C3" alt="ESLint" width="40" />
+  <img src="https://cdn.simpleicons.org/prettier/F7B93E" alt="Prettier" width="40" />
+  <img src="https://cdn.simpleicons.org/cmake/064F8C" alt="CMake" width="40" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="JWT" width="40" />
   </br>
 </br>
 </p>
 
 ### 🧠 Programming Languages
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,php,ts,js,c,cpp,bash,powershell&theme=light" alt="AI and ML" />
+    <img src="https://skillicons.dev/icons?i=python,php,ts,js,c,cpp&theme=light" alt="AI and ML" />
   </br>
 </br>
 </p>

@@ -34,24 +34,17 @@
 
 ### 🖥️ Frontend
 <p align="center" style="max-width: 350px; margin: auto;">
-
-
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,sass,tailwind,bootstrap,figma,materialui&theme=light" alt="Frontend" />
-
-
-
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/chakraui/319795" alt="Chakra UI" width="40" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" width="40" />
-      <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="Three.js" width="40" />
-
+  <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="Three.js" width="40" />
   <img src="https://cdn.simpleicons.org/styledcomponents/DB7093" alt="Styled-components" width="40" />
   <img src="https://cdn.simpleicons.org/semanticuireact/00B7D8" alt="Semantic UI React" width="40" />
   <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" width="40" />
   <img src="https://cdn.simpleicons.org/threedotjs/000000" alt="Three.js" width="40" />
-    <img src="https://cdn.simpleicons.org/gsap/0AE448" alt="Three.js" width="40" />
+  <img src="https://cdn.simpleicons.org/gsap/0AE448" alt="Three.js" width="40" />
   <img src="https://cdn.simpleicons.org/webgl/E34F26" alt="WebGL" width="40" />
-
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,sass,tailwind,bootstrap,figma,materialui&theme=light&perline=5" alt="Frontend" />
 </br>
 </br>
 </p>
@@ -82,11 +75,11 @@
 ### ☁️ Cloud & DevOps
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,netlify,vercel,heroku,aws,googlecloud,azure,firebase&theme=light" alt="Cloud & DevOps" />
   <img src="https://cdn.simpleicons.org/render/000000" alt="Render" width="40" />
   <img src="https://cdn.simpleicons.org/octopusdeploy/009FDA" alt="Octopus Deploy" width="40" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" width="40" />
   <img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" width="40" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,netlify,vercel,heroku,aws,googlecloud,azure,firebase&theme=light&perline=5" alt="Cloud & DevOps" />
 
 </br>
 </br>
@@ -95,7 +88,6 @@
 ### 🧪 Testing & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm,webpack,github,gitlab,bitbucket&theme=light" alt="Tools and Utilities" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
@@ -103,18 +95,17 @@
   <img src="https://cdn.simpleicons.org/prettier/F7B93E" alt="Prettier" width="40" />
   <img src="https://cdn.simpleicons.org/cmake/064F8C" alt="CMake" width="40" />
   <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="JWT" width="40" />
-<img src="https://cdn.simpleicons.org/babel/F9DC3E" alt="Babel" width="40" />
-
-<img src="https://cdn.simpleicons.org/atlassian/0052CC" alt="Jira (Atlassian)" width="40" />
-
-<img src="https://cdn.simpleicons.org/subversion/809CC9" alt="Apache Subversion" width="40" />
+  <img src="https://cdn.simpleicons.org/babel/F9DC3E" alt="Babel" width="40" />
+  <img src="https://cdn.simpleicons.org/atlassian/0052CC" alt="Jira (Atlassian)" width="40" />
+  <img src="https://cdn.simpleicons.org/subversion/809CC9" alt="Apache Subversion" width="40" />
+  <img src="https://skillicons.dev/icons?i=vscode,notion,npm,yarn,pnpm,webpack,github,gitlab,bitbucket&theme=light&perline=5" alt="Tools and Utilities" />
   </br>
 </br>
 </p>
 
 ### 🧠 Programming Languages & scripting
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,python,php,ts,js,c,cpp,bash,powershell,cmake&theme=light" alt="AI and ML" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,php,ts,js,c,cpp,bash,powershell,cmake&theme=light&perline=6" alt="AI and ML" />
   </br>
 </br>
 </p>

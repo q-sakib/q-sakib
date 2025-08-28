@@ -3,16 +3,13 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sakib U. SiddiQuie</h1>
-
-<h2 align="center"><b>Backend Developer | Competitive Programmer</b></h2>
-
+<h2 align="center"><i>Backend Developer | Competitive Programmer</i></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Clean-blue?style=flat&logo=visualstudio" alt="Clean Code" />
   <img src="https://img.shields.io/badge/Docs-Readable-green?style=flat&logo=markdown" alt="Readable Docs" />
   <img src="https://img.shields.io/badge/Stack-Flexible-purple?style=flat&logo=stackshare" alt="Flexible Stack" />
 </p>
 
-<hr style="width:60%; margin:auto;" />
 
 <h2 align="center">✨ About Me</h2>
 
@@ -21,9 +18,9 @@
 </h4>
 
 <ul align="center" style="list-style-type:none; font-size:16px; padding-left:0; max-width: 700px; margin: 1.5em auto;">
-  <li>🛠️ Experienced in designing robust APIs with REST, GraphQL, OData, and real-time WebSocket communication</li>
-  <li>🧪 Dedicated to clean, maintainable code that follows SOLID & OOP principles, paired with clear, helpful documentation</li>
-  <li>💡 Comfortable across frontend and backend (SSR, CSR), always curious and eager to learn new tech</li>
+  <li style="list-style-type:none">🛠️ Experienced in designing robust APIs with REST, GraphQL, OData, and real-time WebSocket communication</li>
+  <li style="list-style-type:none">🧪 Dedicated to clean, maintainable code that follows SOLID & OOP principles, paired with clear, helpful documentation</li>
+  <li style="list-style-type:none">💡 Comfortable across frontend and backend (SSR, CSR), always curious and eager to learn new tech</li>
 </ul>
 
 <p align="center" style="margin-top: 2em;">
@@ -31,6 +28,7 @@
 </p>
 
 
+<hr style="width:60%; margin:auto;" />
 
 <h3 align="center">🧰 Tech Stack</h3>
 

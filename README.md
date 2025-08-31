@@ -237,7 +237,7 @@
 
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight-light" alt="Quote">
 </p>
 
 

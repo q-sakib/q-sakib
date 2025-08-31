@@ -38,15 +38,15 @@
 
 <p align="center" style="max-width: 350px; margin: auto;">
 
+  <img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" width="40" />
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/chakraui/319795" alt="Chakra UI" width="40" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" width="40" />
   <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="sap-ui5" width="40" />
   <img src="https://cdn.simpleicons.org/styledcomponents/DB7093" alt="Styled-components" width="40" />
   <img src="https://cdn.simpleicons.org/semanticuireact/00B7D8" alt="Semantic UI React" width="40" />
   <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" width="40" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=angular,nextjs,react,redux,sass&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nextjs,redux,sass&theme=light" />
   <br/>
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui&theme=light" alt="Frontend" />
   </br>
@@ -77,9 +77,9 @@
   </br>
 </p>
 
-<h3 align="left">🗄️ Databases & ORM</h3>
+<h3 align="right">🗄️ Databases & ORM</h3>
 
-<p align="left">
+<p align="right">
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>

@@ -240,10 +240,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight-light" alt="Quote">
 </p>
-
-
-
-![GitHub metrics](https://metrics.lecoq.io/q-sakib)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/q-sakib)
-
-

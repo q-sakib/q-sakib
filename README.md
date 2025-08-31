@@ -67,16 +67,6 @@
 </br>
 </p>
 
-<h3 align="center">🧠 Programming Languages & scripting</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,ts,js,c,cpp&theme=light&perline=6" alt="AI and ML" />
-  </br>
-  <img src="https://skillicons.dev/icons?i=html,css,bash,powershell,cmake&theme=light&perline=6" alt="AI and ML" />
-  </br>
-  </br>
-</p>
-
 <h3 align="right">🗄️ Databases & ORM</h3>
 
 <p align="right">
@@ -89,6 +79,17 @@
   </br>
 </br>
 </p>
+
+<h3 align="center">🧠 Programming Languages & scripting</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,ts,js,c,cpp&theme=light&perline=6" alt="AI and ML" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=html,css,bash,powershell,cmake&theme=light&perline=6" alt="AI and ML" />
+  </br>
+  </br>
+</p>
+
 <hr style="width:60%; margin:auto;" />
 </br>
 </br>
